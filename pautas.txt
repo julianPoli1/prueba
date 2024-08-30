@@ -1,0 +1,18 @@
+git help
+git (comando) --help
+git status
+
+
+git add . (para pasar al area de staging)
+git commit -m "titulo" -m "descripccion" (para pasar al area de local repository)
+
+git commit -a para pasar directamente a local repository
+
+git branch (Indica una lista de ramas)
+
+git checkout "nombre de rama" (para movernos de branch)
+
+para hacer commit:
+-pararse en la rama donde se va  hacer la fusion
+-git merge (nombre con la que se fusionara)
+-ir al editor y resolver los conflictos
